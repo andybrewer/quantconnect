@@ -1,0 +1,13 @@
+{
+    "algorithm-language": "Python",
+    "parameters": {
+        "GC_API_KEY": "b7d7039509c52964b65a3db2bcf187e8e687db8c3b239858be1c521e5547e6096d36638c86bb581ddccb3112a237e93ae46a0a654a139c7884c0b40e44ab8a86",
+        "CS_PAPER_ACCOUNT_ID": "9100278"
+    },
+    "description": "",
+    "cloud-id": 25094329,
+    "organization-id": "1ba3e948c028c67d610ceb0e70badccf",
+    "python-venv": 1,
+    "encrypted": false,
+    "local-id": 145113840
+}
